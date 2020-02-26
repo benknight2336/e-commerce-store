@@ -2,7 +2,7 @@
   "name": "mern-marketplace",
   "version": "1.0.0",
   "description": "A MERN stack based online marketplace application",
-  "author": "Shama Hoque",
+  "author": "Ben Knight",
   "license": "MIT",
   "keywords": [
     "react",
@@ -11,11 +11,6 @@
     "node",
     "mern"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/shamahoque/mern-marketplace.git"
-  },
-  "homepage": "https://github.com/shamahoque/mern-marketplace",
   "main": "./dist/server.generated.js",
   "scripts": {
     "development": "nodemon",
